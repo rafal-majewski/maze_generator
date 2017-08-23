@@ -1,1 +1,2 @@
-# maze_generator
+# Maze Generator
+By Rafał Majewski
