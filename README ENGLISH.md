@@ -7,7 +7,7 @@ Language: C++<br>
 # Description
 A simple and fast maze generator.
 
-![Example](https://raw.githubusercontent.com/RafalMajewskiPL/maze_generator/master/Exemplary%20maze.png)
+![](https://raw.githubusercontent.com/RafalMajewskiPL/maze_generator/master/Exemplary%20maze.png)
 
 
 
