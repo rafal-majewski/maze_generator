@@ -5,7 +5,9 @@ Język: C++<br>
 
 
 # Opis
-Prosty i szybki generator labiryntów
+Prosty i szybki generator labiryntów.
+
+![Example](https://raw.githubusercontent.com/RafalMajewskiPL/maze_generator/master/Exemplary%20maze.png)
 
 
 
