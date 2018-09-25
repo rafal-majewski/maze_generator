@@ -7,7 +7,7 @@ toki: C++<br>
 # nasin
 ilo pona tawa pali ma sinpin.
 
-![sitelen](https://raw.githubusercontent.com/RafalMajewskiPL/maze_generator/master/Exemplary%20maze.png)
+![](https://raw.githubusercontent.com/RafalMajewskiPL/maze_generator/master/Exemplary%20maze.png)
 
 
 
