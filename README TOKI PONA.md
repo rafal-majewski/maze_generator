@@ -1,8 +1,13 @@
-toki pona:
-jan pali: jan Lapalu Sawapomili Majepisi
-tenpo: 25.9.2018
-toki: C++
+# Information
+jan pali: Lapalu Sawapomili Majepisi<br>
+toki: C++<br>
 
-ilo pona.
 
+
+# nasin
+ilo pona tawa pali ma sinpin.
+
+
+
+# lawa kepeken
 lawa kepeken li lon ala.
