@@ -1,6 +1,5 @@
 # English:
-Author: Rafał Sławomir Majewski.
-
+Author: Rafał Sławomir Majewski.<br>
 Date: 25.9.2018
 
 Language: C++
