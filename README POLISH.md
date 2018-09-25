@@ -1,14 +1,21 @@
 # Informacje
 Autor: Rafał Sławomir Majewski<br>
-Data: 25.9.2018<br>
 Język: C++<br>
 
 
 
 # Opis
-Prosty i szybki generator labiryntów.
+Prosty i szybki generator labiryntów
 
 
 
 # Warunki użytkowania
-Nie ma warunków użytkowania.
+Nie ma warunków użytkowania
+
+
+
+# Historia wersji
+## Wersja 1
+Data: 25.9.2018<br>
+
++ Pierwsze wydanie.
