@@ -19,4 +19,4 @@ There are no terms of use.
 ## Version 1
 Date: 25.9.2018<br>
 
-First release.
++ First release.
