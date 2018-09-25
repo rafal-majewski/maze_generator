@@ -7,7 +7,7 @@ Język: C++<br>
 # Opis
 Prosty i szybki generator labiryntów.
 
-![](https://raw.githubusercontent.com/RafalMajewskiPL/maze_generator/master/Exemplary%20maze.png)
+!(https://raw.githubusercontent.com/RafalMajewskiPL/maze_generator/master/Exemplary%20maze.png)
 
 
 
