@@ -12,3 +12,5 @@ A simple and fast maze generator.
 
 # License
 There are no terms of use.
+
+
